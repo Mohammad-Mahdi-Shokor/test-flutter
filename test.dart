@@ -6,9 +6,9 @@ class Car {
     this.name = name;
   }
 
-  int getId() {
-    return _id;
-  }
+  // int getId() {
+  //   return _id;
+  // }
 
   int get id => _id;
 
