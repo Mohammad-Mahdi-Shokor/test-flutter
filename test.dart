@@ -1,6 +1,7 @@
 class Car {
   int _id = 0;
   String name = "";
+  int numberofdoors = 4;
   Car({required int id, required String name}) {
     this._id = id;
     this.name = name;
